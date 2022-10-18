@@ -128,6 +128,6 @@
                 </div>
             </div>
         </div> --}}
-        <h1>{{ config("app.name") }}</h1>
+        <h1>{{ config("app.name") }} Hello</h1>
     </body>
 </html>
