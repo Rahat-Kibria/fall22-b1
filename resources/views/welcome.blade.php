@@ -128,6 +128,6 @@
                 </div>
             </div>
         </div> --}}
-        <h1>====================Kodeeo Limited===================</h1>
+        <h1>{{ config("app.name") }}</h1>
     </body>
 </html>
